@@ -18,6 +18,7 @@ dependencies:
   internet_connection_checker: ^1.0.0+1
   http: ^0.13.6
   shared_preferences: ^2.2.3
+  bloc: ^8.1.4
 
 dev_dependencies:
   flutter_test:
